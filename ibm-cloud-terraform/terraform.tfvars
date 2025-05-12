@@ -1,0 +1,5 @@
+ibmcloud_api_key      = "REPLACE_WITH_YOUR_API_KEY"
+resource_group_name   = "rg-demo"
+linux_instance_name   = "linux-vsi"
+windows_instance_name = "windows-vsi"
+ssh_key_id            = "REPLACE_WITH_SSH_KEY_ID"
